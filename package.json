@@ -1,6 +1,6 @@
 {
   "name": "tarryize-github-example",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "get a list of github repos",
   "main": "github.js",
   "repository": {
