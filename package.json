@@ -1,0 +1,30 @@
+{
+  "name": "tarryize-github-example",
+  "version": "0.0.1",
+  "description": "get a list of github repos",
+  "main": "github.js",
+  "dependencies": {
+    "npm": "~1.3.14",
+    "datasift": "~0.3.1",
+    "express": "~3.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm install github"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/tarryize/github.git"
+  },
+  "keywords": [
+    "github",
+    "github",
+    "repos"
+  ],
+  "author": "tarryize",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/tarryize/github/issues"
+  },
+  "homepage": "https://github.com/tarryize/github"
+}
