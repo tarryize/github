@@ -1,6 +1,6 @@
 {
   "name": "tarryize-github-example",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "get a list of github repos",
   "main": "github.js",
   "dependencies": {
@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "npm install github"
+    "test": "npm install tarryize-github-example"
   },
   "repository": {
     "type": "git",
